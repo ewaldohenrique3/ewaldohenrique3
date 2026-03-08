@@ -122,3 +122,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 />
 
 <br/>
+<br/>
+
+---
+### 📫 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/henrique-soares-qa/)
+- 📧 ewaldohenrique3@gmail.com
